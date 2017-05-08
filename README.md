@@ -26,4 +26,4 @@ https://hub.docker.com/r/playniuniu/docker-gui-firefox/
 `docker run --rm -it -e DISPLAY=$MAC_IP:0  firefox /usr/bin/firefox`
 
 
-![screenshot](screenshot.png "screenshot")
+![screen-shot](screen-shot.png "screen-shot")
